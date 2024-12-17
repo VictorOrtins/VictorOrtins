@@ -51,7 +51,7 @@ Veja mais projetos nos meus **[repositórios]([https://github.com/seu-usuario](h
 <!-- Seção de contatos -->
 ## 📫 Entre em Contato
 - **Email:** [ortinsv1@gmail.com](mailto:ortinsv1@gmail.com)
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/victorortins/)
-- **Portfólio:** [Seu Portfólio](https://drive.google.com/file/d/1Rg90O3Xp9ii6CAXSJdkbuxrgi4wwQCBD/view?usp=sharing)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/victorortins/)
+- **Portfólio:** [Portfólio](https://drive.google.com/file/d/1Rg90O3Xp9ii6CAXSJdkbuxrgi4wwQCBD/view?usp=sharing)
 
 ---
