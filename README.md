@@ -34,6 +34,7 @@ Aqui estão alguns projetos que estou desenvolvendo ou já concluí:
 | **PartialStandingsBrasileirao** | Projeto em que tento reproduzir os resultados de um artigo sobre o poder preditivo das tabelas de futebol | Python, Statistics |
 | **APA** | Projeto final da cadeira de Análise de Projeto de Algoritmos | C++, Optimization |
 | **ProjetoFinalBD** | Projeto final da cadeira de Banco de Dados, que é um sistema completo de aluguel de filmes com persistência de dados | Python, MySQL, DB |
+| **CinturaoFABR** | Projeto de análise de dados sobre o FABR (Futebol Americano Brasileiro) semelhante a outros de Futebol (Ex: Cinturão do Futebol Brasileiro) | Python |
 
 Veja mais projetos nos meus **[repositórios]([https://github.com/seu-usuario](https://github.com/VictorOrtins))**. 💻
 
