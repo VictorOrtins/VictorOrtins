@@ -18,7 +18,7 @@
 <!-- Seção de sobre mim -->
 ## 🌟 Sobre mim
 <!-- Substitua este texto com suas informações pessoais -->
-- 🎓 **Atualmente:** Coloque aqui seu cargo atual, universidade ou ocupação.
+- 🎓 **Atualmente:** Pesquisador de Desenvolvimento de Software na Vsoft Tecnologia.
 - 💼 **Interesses:** Desenvolvimento de software, estatísticas, análise de dados, aprendizado de máquina, visão computacional.
 - 🌱 **Aprendendo:** NLP, Estatística aplicada a Esportes, Sistemas Distribuídos, Desenvolvimento de APIs.
 - 💬 **Fale comigo:** Sinta-se à vontade para me contatar por [Linkedin](https://www.linkedin.com/in/victorortins/) ou pelo [email](ortinsv1@gmail.com).
